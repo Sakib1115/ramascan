@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Ramestta",
+        "url": "https://ramascan.com/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/Ramestta-Blockchain/ramascan/main/public/static/ramestta_32x32_mm_icon.svg",
+        "invertIconInDarkMode": true
+    },
+    {
+        "title": "Ramestta Testnet",
+        "url": "https://testnet.ramascan.com/",
+        "group": "Testnets",
+        "isActive": true,
+        "icon": "https://raw.githubusercontent.com/Ramestta-Blockchain/ramascan/main/public/static/ramestta_32x32_mm_icon.svg",
+        "invertIconInDarkMode": true
+    }
+]
